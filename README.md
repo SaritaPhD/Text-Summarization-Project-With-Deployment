@@ -1,4 +1,5 @@
 # End to end Text-Summarizer-Project  
+This project is a FastAPI-based web application that provides a text summarization service. It includes endpoints for redirecting to API documentation, initiating a model training process, and generating text summaries. The application leverages a custom PredictionPipeline for summarization tasks and is designed for efficient API interactions.
 
 ## Workflows
 
